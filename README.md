@@ -76,7 +76,6 @@ Part of my **30 Days 30 AI Websites Challenge**, where I build and publish one A
 
 **Bettam Anand**
 
-**CSE(Data Science)**
-B.Tech CSE
+**BTech CSE(Data Science)**
 
 JNTUH University College of Engineering Palair
